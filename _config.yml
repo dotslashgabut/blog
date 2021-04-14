@@ -1,8 +1,8 @@
 # Site settings
-title_left    : "DotSlash"
-title_right   : "Gabut" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+title_left    : "./"
+title_right   : "gabut" # default: ""
+description   : "DotSlashGabut, just for fun and testing purposes."
+keywords      : "DotSlashGabut, Dot Slash Gabut, ./gabut, tech, windows, linux, macOS, SEO, blog, web, minimalist, thinkspace"
 url           : https://blog.dotslashgabut.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "/assets/images/dotslashgabut.png" # image uri like logo/cover image for site seo
